@@ -205,7 +205,7 @@ class Color {
 }
 
 
-
+//editado para que puedas jugar partidas una detras de otra sin recargar
 
 
 /*
@@ -386,4 +386,5 @@ class Color {
     public static final String YELLOW = "\u001B[33m";  // Letra en posición incorrecta
     public static final String GRAY = "\u001B[37m";    // Letra incorrecta
 }
+
 */
