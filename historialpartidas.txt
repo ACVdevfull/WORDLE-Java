@@ -1,0 +1,9 @@
+Partida 1:
+Intento 1: verde
+Intento 2: verde
+Intento 3: verde
+Intento 4: verde
+Intento 5: verde
+Intento 6: verde
+Has perdido. La palabra era: perro
+  --- Siguiente partida ---  
