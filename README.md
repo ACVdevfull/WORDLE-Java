@@ -22,4 +22,4 @@ Este es un simulador del popular juego **Wordle** ejecutado directamente en la c
 ## 📋 Próximas mejoras
 *  Añadir un temporizador para medir el tiempo de resolución.
 * Implementar sonidos al ganar o perder.
-*  Permitir jugar partidas consecutivas sin reiniciar la aplicación.
+*  Permitir jugar partidas consecutivas sin reiniciar la aplicación (código comentado en archivo principal)
