@@ -1,6 +1,6 @@
 # Wordle Java Edition 🧩
 
-Este es un simulador del popular juego **Wordle** ejecutado directamente en la consola. El proyecto ha sido desarrollado como parte del módulo de Programación en el ciclo de **Desarrollo de Aplicaciones Web (DAW)**.
+Este es un simulador del popular juego **Wordle** ejecutado directamente en la consola. 
 
 ## ✨ Características
 ***Gestión de Ficheros:** Lectura de palabras secretas desde `listadepalabras.txt`.
